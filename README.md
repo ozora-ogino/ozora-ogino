@@ -16,7 +16,8 @@ Passion: Blockchain, MLOps, Deep learning
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></code>
 
-**Certifications:*
+**Certifications:**
+
 <code><img height="80" src="/images/GCP_ML_Professional_badge.png"></code>
 <code><img height="80" src="/images/161342809452.png"></code>
 <code><img height="80" src="/images/azure-ai-engineer-600x600.png"></code>
