@@ -5,8 +5,9 @@
 <a href="https://www.linkedin.com/in/ozora-ogino-136086207/">
   <img align="left" alt="Ozora's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-![](https://visitor-badge.glitch.me/badge?page_id=ozora-ogino.ozora-ogino)
 
+![](https://visitor-badge.glitch.me/badge?page_id=ozora-ogino.ozora-ogino)
+<br />
 
 Passion: Blockchain, MLOps, Deep learning
 
