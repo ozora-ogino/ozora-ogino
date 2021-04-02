@@ -23,7 +23,7 @@ Passion: Blockchain, MLOps, Deep learning
 <code><img height="80" src="/images/azure-ai-engineer-600x600.png"></code>
 
 
-** Coding Status Last Week **
+**Coding Status Last Week**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
