@@ -24,7 +24,7 @@ No Activity tracked this Week
 <!--END_SECTION:waka-->
 
 
-- 💬 Ask me about anything, I am happy to help;
+💬 Ask me about anything, I am happy to help;
 
 
 <a href="https://twitter.com/amakake1127">
