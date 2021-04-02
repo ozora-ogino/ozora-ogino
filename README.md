@@ -16,6 +16,8 @@ Passion: Blockchain, MLOps, Deep learning
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></code>
 
+<code><img height="20" src="https://github.com/ozora-ogino/ozora-ogino/images/GCP_ML_Professional_badge.png"></code>
+
 💬 Ask me about anything, I am happy to help;
 
 
