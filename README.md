@@ -25,6 +25,9 @@ Passion: Blockchain, MLOps, Deep learning
 
 **Coding Status Last Week**
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 💬 Ask me about anything, I am happy to help;
