@@ -8,6 +8,8 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ozora-ogino.ozora-ogino)
 
+Hi, I'm Ozora Ogino, passionate  ML developer  and a freelance software engineer from Japan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
