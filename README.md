@@ -5,7 +5,6 @@
 
 Passion: Blockchain, MLOps, Deep learning
 
-- 💬 Ask me about anything, I am happy to help;
 
 
 **Languages and Tools:**  
@@ -23,6 +22,10 @@ Passion: Blockchain, MLOps, Deep learning
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+
+- 💬 Ask me about anything, I am happy to help;
+
 
 <a href="https://twitter.com/amakake1127">
   <img align="left" alt="Ozora Ogino | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
