@@ -26,7 +26,11 @@ Passion: Blockchain, MLOps, Deep learning
 **Coding Status Last Week**
 <!--START_SECTION:waka-->
 ```text
-Python       1 min           █████████████████████████   100.00 % 
+JavaScript   1 hr 40 mins    █████████████▓░░░░░░░░░░░   55.33 % 
+Python       38 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.46 % 
+CSS          20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+Other        19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 ```
 <!--END_SECTION:waka-->
 
