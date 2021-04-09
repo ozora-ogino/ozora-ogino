@@ -5,8 +5,6 @@
 
 I'm a freelance web developer and AI engineer.
 
-Also a contributor of <a href="https://ethereum.org/en/">Ethereum.org.</a>
-
 
 
 **Languages and Tools:**  
