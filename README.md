@@ -20,9 +20,10 @@ I'm a freelance web developer and AI engineer.
 **Coding Status Last Week**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   17 mins         ████████████████▓░░░░░░░░   67.29 % 
-Other        6 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.55 % 
-Python       1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+JSON         21 mins         █████████░░░░░░░░░░░░░░░░   36.12 % 
+JavaScript   17 mins         ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+Python       14 mins         ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+Other        6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 ```
 <!--END_SECTION:waka-->
 
