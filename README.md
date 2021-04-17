@@ -4,7 +4,7 @@
 <br />
 
 I'm a freelance web developer and AI engineer.
-
+Ethereum contributor
 
 
 **Languages and Tools:**  
