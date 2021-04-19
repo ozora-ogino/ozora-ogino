@@ -3,9 +3,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ozora-ogino.ozora-ogino)
 <br />
 
-I'm a freelance web developer and AI engineer.
-
-Ethereum contributor
+I'm a 
+ - Freelance web developer
+ - Multi cloud engineer
 
 
 **Languages and Tools:**  
