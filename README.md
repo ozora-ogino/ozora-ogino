@@ -4,6 +4,7 @@
 <br />
 
 - Fullstack web developer
+- ML engineer
 - Interest: Blockchain, Deep learning and Automation
 - Passionate about contributing to OSS
 
