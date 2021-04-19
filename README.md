@@ -3,9 +3,9 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=ozora-ogino.ozora-ogino)
 <br />
 
-I'm a 
- - Freelance web developer
- - Multi cloud engineer
+- Fullstack web developer
+- Interest: Blockchain, Deep learning and Automation
+- Passionate about contributing to OSS
 
 
 **Languages and Tools:**  
