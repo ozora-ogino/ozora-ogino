@@ -22,11 +22,11 @@
 **Coding Status Last Week**
 <!--START_SECTION:waka-->
 ```text
-JSX          6 hrs 11 mins   ███████▓░░░░░░░░░░░░░░░░░   30.34 % 
-JavaScript   6 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   29.84 % 
-Markdown     2 hrs 47 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-JSON         2 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Python       2 hrs 5 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+JSX          3 hrs 44 mins   ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+JavaScript   3 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.01 % 
+Markdown     2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Python       2 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+JSON         1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 ```
 <!--END_SECTION:waka-->
 
