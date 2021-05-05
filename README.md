@@ -18,18 +18,6 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg"></code>
 
-
-**Coding Status Last Week**
-<!--START_SECTION:waka-->
-```text
-Markdown     2 hrs 20 mins   ███████████████████████▒░   93.65 % 
-CSS          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-```
-<!--END_SECTION:waka-->
-
 💬 Ask me about anything, I am happy to help;
 
 
