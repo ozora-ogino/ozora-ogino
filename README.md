@@ -1,8 +1,8 @@
-![](https://visitor-badge.glitch.me/badge?page_id=ozora-ogino.ozora-ogino)
-<br />
+🌅️ : ML/MLOps Engineer
 
-- Fullstack web developer
-- ML engineer
+🌃 : Full-stack web Engineer
+
+I'm writing about MLOps at [blog](https://techwithoz.com/) and [Medium](https://medium.com/@ozora.ogino.1127).
 
 💬 Ask me about anything, I am happy to help;
 
