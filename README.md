@@ -1,6 +1,6 @@
-I am a Full-stack ML and Web Developer who is exploring Cloud ☁️ while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. 
+👨‍💻　Full stack ML/MLOps Engineer
 
-🌱 I’m currently learning IoT, Edge ML
+🌱 Currently learning IoT, Edge ML
 
 ### Tech & Tools Preference
 
@@ -16,15 +16,6 @@ I am a Full-stack ML and Web Developer who is exploring Cloud ☁️ while facil
 <img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=django&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozora-ogino&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-I'm writing about MLOps at [blog](https://techwithoz.com/) and [Medium](https://medium.com/@ozora.ogino.1127).
 
-💬 Ask me about anything, I am happy to help;
 
-<a href="https://twitter.com/ozora1127">
-  <img align="left" alt="Ozora Ogino | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ozora-ogino-136086207/">
-  <img align="left" alt="Ozora's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
