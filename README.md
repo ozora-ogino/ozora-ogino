@@ -1,6 +1,4 @@
-👨‍💻　Full stack ML/MLOps Engineer
-
-🌱 Currently learning IoT, Edge ML
+👨‍💻　Full stack ML/MLOps Engineer building AI for mainly mobility and manufacturing.
 
 ### Tech & Tools Preference
 
